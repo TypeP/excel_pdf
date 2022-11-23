@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.16.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Atworks/workspace/JavaTPCProject/lib/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
